@@ -1,0 +1,24 @@
+USER JOURNEY:
+
+
+I. AUTHENTICATION:
+    As a user, I can register for a new account
+    As a user, I can sign in to my account. 
+    As a user, I can log out of my account. 
+    As a user, I can destroy my account. 
+    As a user, I can update my password and receive an email notice.
+
+II. USER PROFILE:
+    As a user, I can update my profile information
+
+III. ADVENTURES:
+	As a user, I can add new adventures:
+       -Basic info
+       -Photos
+       -Story
+    As a user, I can upvote ADVENTURES
+    As a guest, I can visit an adventure and see: 
+        -basic info, 
+        -photos,
+        -percent of upvotes to views,
+
